@@ -1,0 +1,102 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+#first-section{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+.peter{
+    width:700px;
+    margin-left: 20px;
+    margin-right: 200px;
+    padding-left: 80px;
+    margin-bottom: 150px;
+}
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, salmon);
+    border-radius: 5px;
+    padding: 5px 15px;
+    color: white;
+
+}
+.first-images img{
+    height: 500px;
+    width: 500px;
+    margin-left: 300px;
+    margin-right: 20px;
+}
+.Second-images img{
+    height: 500px;
+    width: 500px;
+    margin-right: 100px;
+    margin-left: 80px ;
+}
+.Dream-big{
+    width: 700px;
+    margin-left: 400px;
+    padding-left: 225px;
+    margin-right: 80px;
+    margin-top: 00px;
+}
+.Download-resume{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, salmon);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.final-section{
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    
+}
+.final-div1{
+   border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+  margin: 20px;
+  width:700px;
+  margin-right: 80px;
+  margin: 80px;
+  
+}
+.final-div2{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    margin: 20px;
+    width:700px;
+    margin-left: 150px;
+    margin-top: 80px;
+    height: 320px;
+
+   
+
+}
+#Experience{
+    margin-top: 50px;
+}
+#Second-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+footer p{
+    text-align: center;
+}
